@@ -8,10 +8,10 @@ url:            "https://chesterhow.github.io"
 google_analytics: UA—XXXXXXXX-X
 
 # Author
-author:         Kay Chen
+author:         
   name:         Kay Chen
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+  url:          https://thisiskaychen.github.io
+  email:        kayc010804@gmail.com
 
 # Build settings
 markdown:       kramdown
