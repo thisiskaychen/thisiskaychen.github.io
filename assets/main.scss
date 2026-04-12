@@ -1,5 +1,34 @@
 ---
-# Only the main Sass file needs front matter (the dashes are enough)
 ---
 
-@import 'tale';
+@import "tale";
+
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,600;1,400&display=swap');
+
+body {
+  background-color: #dfe3ee;
+  color: #2c2c3a;
+  font-family: 'EB Garamond', Georgia, serif;
+}
+
+.post-title a, .post-title {
+  color: #2c2c3a;
+  font-family: 'EB Garamond', Georgia, serif;
+}
+
+.nav-title {
+  color: #2c2c3a;
+  font-family: 'EB Garamond', Georgia, serif;
+}
+
+.nav-menu a {
+  color: #4a4a6a;
+}
+
+a {
+  color: #5b6494;
+}
+
+.footer {
+  color: #7a7fa0;
+}
