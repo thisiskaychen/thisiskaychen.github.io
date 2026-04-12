@@ -4,7 +4,6 @@ title: "在大海面前我想/Tidings from the South + more"
 tags: ["travelogue"]
 ---
 
-![Colombogreenland](/assets/images/colombo-beforesunset.jpeg)
 <img src="/assets/images/colombo-beforesunset.jpeg" alt="Colombo sunset" width="550">
 
 你注视过夜中的海吗？从黑暗里聚合出白线，越来越长、越来越厚。潮声逼近，然后声和白一起松懈下去。有时在近岸的水面，有时拍上沙滩，有时线和线连缀到了一起。坐在岸边，我以为这些浪潮是要军旅、要行进，后来才发现他们往往在抵达沙滩前就会暗自离场。不是倒退，而是消逝、变得不见。时间推移，我开始能够从满目的黑暗里辨认出聚集、加深的一团，从这团黑色里辨认出白线即将出现的位置与形状，然后闭上眼睛，远近无数海浪同时朝我涌来。永远的成形与消逝，狭窄沙滩上的白沫和远近交叠的潮声是踪迹。
@@ -15,7 +14,6 @@ tags: ["travelogue"]
 
 元嘉六年和十年，两批来自锡兰的比丘尼先后乘南海商船抵达了广州，然后是建康。他们学习汉语、参与了受戒仪式，三百余位汉地比丘尼第一次拥有了完全合法的宗教身份。更早一些的时代，法显记下："其国和适，无冬夏之异，草木常茂，田种随人，无有时节。"是这样吗？因为繁重的课业，我仓促的好奇还来不及进化成"新知"。在热带上空的某架飞机中醒来时，窗外已是科伦坡的闪烁光点。那是夜里23点，如果不是重力，没有人能够在这片景象面前用肉眼分辨大地和天空。零零落落的星星和路灯缀满整片黑色幕布。——不像吉隆坡或任何其他城市的夜晚，在凌空的上帝视角，我能通过路灯照亮的街道识别出整座城市的筋骨。那一刻我想，我大概没法真正领会这片土地了。超出我理解范畴的人事，我会自动包裹上浪漫。
 
-![Colomboskyandland](/assets/images/colombo-starryland.jpeg)
 <img src="/assets/images/colombo-starryland.jpeg" alt="Colombo night" width="400">
 <p style="text-align: center; color: #9a9ab0; font-size: 0.85em; margin-top: 0.3em;">相机拍不到星星</p>
 
@@ -33,7 +31,6 @@ tags: ["travelogue"]
 
 在离开Kandy的路上，我跟司机说我在来之前读了The Elephant Complex这本书作为准备，司机以为我不知道Lonely Planet，立刻开始和我介绍10 things you must do in Sri Lanka。我有些刻薄地想，haha lonely planet, I know it much deeper than you do, brother.
 
-![sigiriyastupa](/assets/images/sigria-stupa.jpeg)
 <img src="/assets/images/sigria-stupa.jpeg" alt="Sigiriya" width="550">
 
 *2024-07-05*
