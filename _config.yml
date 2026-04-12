@@ -28,3 +28,5 @@ permalink: /:year-:month-:day/:title
 paginate: 5
 
 exclude: [Gemfile, Gemfile.lock, tale.gemspec]
+
+excerpt_separator: <!--more-->
