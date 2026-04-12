@@ -1,10 +1,11 @@
 ---
 layout: post
-title: "Tidings from the South/在大海面前我想 + more"
+title: "在大海面前我想/Tidings from the South + more"
 tags: ["travelogue"]
 ---
 
 ![Colombogreenland](/assets/images/colombo-beforesunset.jpeg)
+<img src="/assets/images/colombo-beforesunset.jpeg" alt="Colombo sunset" width="550">
 
 你注视过夜中的海吗？从黑暗里聚合出白线，越来越长、越来越厚。潮声逼近，然后声和白一起松懈下去。有时在近岸的水面，有时拍上沙滩，有时线和线连缀到了一起。坐在岸边，我以为这些浪潮是要军旅、要行进，后来才发现他们往往在抵达沙滩前就会暗自离场。不是倒退，而是消逝、变得不见。时间推移，我开始能够从满目的黑暗里辨认出聚集、加深的一团，从这团黑色里辨认出白线即将出现的位置与形状，然后闭上眼睛，远近无数海浪同时朝我涌来。永远的成形与消逝，狭窄沙滩上的白沫和远近交叠的潮声是踪迹。
 
@@ -12,9 +13,11 @@ tags: ["travelogue"]
 
 如果右键点击"显示简介"，就会发现这个文件夹诞生于2024年1月15日星期一13:31。它包裹的内容和浪漫不沾边：护照复印件、机票、酒店、签证、入境卡。诶，适可而止。身份、国界、货币、通讯，说实在话，这些民族国家繁衍出的子嗣很让我感到太疲倦。如果古典时代对我有任何不可抗拒的吸引力，那么它默许的想象空间一定是首因。当模糊暧昧的好奇心让我下定决心拜访这里时，我没有意识到这个岛屿已经变成了国土，一个民主社会主义共和国。
 
-元嘉六年和十年，两批来自锡兰的比丘尼先后乘南海商船抵达了广州，然后是建康。他们学习汉语、参与了受戒仪式，三百余位汉地比丘尼第一次拥有了完全合法的宗教身份。更早一些的时代，法显记下："其国和适，无冬夏之异，草木常茂，田种随人，无有时节。"是这样吗？因为繁重的课业，我仓促的好奇还来不及进化成"新知"。在热带上空的某架飞机中醒来时，窗外已是科伦坡的闪烁光点。那是夜里23点，如果不是重力，没有人能够在这片景象面前用肉眼分辨大地和天空。零零落落的星星和路灯缀满整片黑色幕布。————不像吉隆坡或任何其他城市的夜晚，在凌空的上帝视角，我能通过路灯照亮的街道识别出整座城市的筋骨。那一刻我想，我大概没法真正领会这片土地了。超出我理解范畴的人事，我会自动包裹上浪漫。
+元嘉六年和十年，两批来自锡兰的比丘尼先后乘南海商船抵达了广州，然后是建康。他们学习汉语、参与了受戒仪式，三百余位汉地比丘尼第一次拥有了完全合法的宗教身份。更早一些的时代，法显记下："其国和适，无冬夏之异，草木常茂，田种随人，无有时节。"是这样吗？因为繁重的课业，我仓促的好奇还来不及进化成"新知"。在热带上空的某架飞机中醒来时，窗外已是科伦坡的闪烁光点。那是夜里23点，如果不是重力，没有人能够在这片景象面前用肉眼分辨大地和天空。零零落落的星星和路灯缀满整片黑色幕布。——不像吉隆坡或任何其他城市的夜晚，在凌空的上帝视角，我能通过路灯照亮的街道识别出整座城市的筋骨。那一刻我想，我大概没法真正领会这片土地了。超出我理解范畴的人事，我会自动包裹上浪漫。
 
 ![Colomboskyandland](/assets/images/colombo-starryland.jpeg)
+<img src="/assets/images/colombo-starryland.jpeg" alt="Colombo night" width="400">
+<p style="text-align: center; color: #9a9ab0; font-size: 0.85em; margin-top: 0.3em;">相机拍不到星星</p>
 
 比如说，在Anuradhapura 的餐馆吃饭，老板出院子迎接我的时候自然得像是在招呼老朋友。在Sigiriya Rock上看日出，一路上语言不详的导游忽然开始抱歉地表白自己做导游是为了赚钱供弟弟妹妹上学，英语是自学的，然后指向一个方向，说："That's my village." 在Hotel Sigiriya吃早餐，用最没有想象力的煎蛋手法切分hopper，隔壁桌的英国姐姐传授了她从youtube上刚刚得知的吃法；那天夜里我已经在Kandy的街上瞎逛，转到一条黑灯瞎火的路口凑上了一个炒着不知道啥的路边摊，一位白人女性让我从她手里取一粒，我一抬头，她惊呼："You're the girl from the hotel!" 旅程的最后，在Dilmah的t-lounge喝茶，我竟然真的遇到了三位来科伦坡求学的中国比丘尼，她们先是和我说"sorry"，然后说"你好"，接着我的嘴里已经开始流利地蹦出"四分律删繁补阙行事钞"，忽然感到唇齿变得格外亲切。
 
@@ -31,10 +34,11 @@ tags: ["travelogue"]
 在离开Kandy的路上，我跟司机说我在来之前读了The Elephant Complex这本书作为准备，司机以为我不知道Lonely Planet，立刻开始和我介绍10 things you must do in Sri Lanka。我有些刻薄地想，haha lonely planet, I know it much deeper than you do, brother.
 
 ![sigiriyastupa](/assets/images/sigria-stupa.jpeg)
+<img src="/assets/images/sigria-stupa.jpeg" alt="Sigiriya" width="550">
 
 *2024-07-05*
 
-//Later I wrote this into the last paragraph of my personal statement in my application to grad school, which, in retrospect, was kind of wild. I'm still grateful I did that. Keep it to my genuinity.
+//Later I wrote this into the last paragraph of my personal statement in my application to grad school at US, which, in retrospect, was kind of wild. Still grateful I did that.
 
 Some night I was straying by the sea in Colombo. Sun sunk into the horizon, everything before me was fading into deep black. In time I was able to recognize from the overflowing blackness the gathering, deepening mass where the locus and shape of the dim white lines were about to appear. Then I closed my eyes. Listen. All of the tides, near and far, coming to me, at once. Consciousness didn't tell me it was the Indian Ocean. Religion, nation, history, territory, or whatever deployed to nominate the glitter scintillating on an other-than-me, has collasped in me, flowing.
 
