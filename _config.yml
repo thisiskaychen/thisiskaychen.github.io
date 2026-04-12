@@ -1,15 +1,15 @@
 # Site settings
-title:          Tale
-description:    "Minimal Jekyll theme for storytellers"
-baseurl:        "/tale"
+title:          "kkkkk"
+description:    "to say a few words"
+baseurl:        ""
 url:            "https://chesterhow.github.io"
 
 # Google Analytics
 google_analytics: UA—XXXXXXXX-X
 
 # Author
-author:
-  name:         Chester How
+author:         Kay Chen
+  name:         Kay Chen
   url:          https://chester.how
   email:        chesterhow@gmail.com
 
