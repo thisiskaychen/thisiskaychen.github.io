@@ -1,6 +1,6 @@
 ---
 layout: post
 title: "Your Post Title Here"
-tags: ["Sketch for a Self-Analysis"]
+tags: ["sketch for a self-analysis"]
 ---
 still thinking
