@@ -22,3 +22,5 @@ Kay
 2026-04-12
 
 Contact me: kaychen@g.harvard.edu
+
+For an academic version of me: https://harvard.academia.edu/KayChen
